@@ -6,4 +6,4 @@ st.write("""
 Hello *world!*
 """)
 
-str.textinput("Name?")
+st.text_input("""Name?""")
